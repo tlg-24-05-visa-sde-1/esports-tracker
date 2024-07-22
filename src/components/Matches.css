@@ -1,0 +1,24 @@
+/* src/components/Matches.css */
+.matches-section {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 20px;
+    width: 80%;
+    max-width: 600px;
+    margin: auto;
+  }
+
+  .matches-section h2 {
+    color: #333;
+  }
+
+  .matches-section ul {
+    list-style-type: none;
+    padding: 0;
+  }
+
+  .matches-section li {
+    margin: 20px 0;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 10px;
+  }
