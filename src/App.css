@@ -1,4 +1,3 @@
-/* src/App.css */
 .App {
   text-align: center;
 }
@@ -20,7 +19,7 @@
   margin: 20px 0;
 }
 
-/* src/components/Matches.css */
+
 .matches-section {
   border: 1px solid #ccc;
   border-radius: 8px;

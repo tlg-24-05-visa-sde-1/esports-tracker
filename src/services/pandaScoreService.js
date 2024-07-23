@@ -1,4 +1,3 @@
-// src/services/pandaScoreService.js
 import axios from 'axios';
 
 const API_KEY = 'MgDWw4S28FXcAX42xcyQPXiacx0V_aviuYDxkcalhhWh3rq-9n4';

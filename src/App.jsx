@@ -1,8 +1,7 @@
-// src/App.jsx
 import React from 'react';
 import UpcomingMatches from './components/UpcomingMatches';
 import LiveMatches from './components/LiveMatches';
-import NewsFeed from './components/NewsFeed'; // Assuming this component is already created
+import NewsFeed from './components/NewsFeed'; 
 import './App.css';
 
 const App = () => {
