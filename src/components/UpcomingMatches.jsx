@@ -1,4 +1,3 @@
-// src/components/UpcomingMatches.jsx
 import React, { useState, useEffect } from 'react';
 import { fetchUpcomingMatches } from '../services/pandaScoreService.js';
 import './Matches.css';

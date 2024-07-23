@@ -1,4 +1,3 @@
-// src/services/newsService.js
 import axios from 'axios';
 
 const API_KEY = 'pub_49082b0c63f48908a649f3fc462c2d3839c92';

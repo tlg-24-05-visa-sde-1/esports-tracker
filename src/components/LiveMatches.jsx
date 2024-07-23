@@ -1,4 +1,3 @@
-// src/components/LiveMatches.jsx
 import React, { useState, useEffect } from 'react';
 import { fetchLiveMatches } from '../services/pandaScoreService';
 import './Matches.css';
